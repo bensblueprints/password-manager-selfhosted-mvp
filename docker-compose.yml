@@ -1,0 +1,16 @@
+services:
+  vaultly:
+    build: .
+    container_name: vaultly
+    restart: unless-stopped
+    ports:
+      - "5344:5344"
+    environment:
+      - PORT=5344
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/vaultly.db
+    volumes:
+      - vaultly-data:/app/data
+
+volumes:
+  vaultly-data:
