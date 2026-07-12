@@ -64,7 +64,7 @@ Node 20+ · Express · better-sqlite3 (ciphertext only) · React + Vite + Tailwi
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Want the packaged Windows installer with everything wired up? Grab it here: **[https://whop.com/onetime-suite](https://whop.com/onetime-suite)** — pay once, own it forever, no subscription.
+Want the packaged Windows installer with everything wired up? Grab it here: **[https://whop.com/benjisaiempire/vaultly-app](https://whop.com/benjisaiempire/vaultly-app)** — pay once, own it forever, no subscription.
 
 ## License
 
