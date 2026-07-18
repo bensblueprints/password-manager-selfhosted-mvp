@@ -2,7 +2,11 @@
 
 ## Demo
 
-VIDEO-PLACEHOLDER
+
+
+https://github.com/user-attachments/assets/a6cae590-19b6-40d2-b4db-48197c0fb363
+
+
 
 **The zero-knowledge team password manager you own forever. Pay once. No per-seat subscription.**
 
