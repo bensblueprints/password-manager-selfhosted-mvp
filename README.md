@@ -1,5 +1,9 @@
 # 🔐 Vaultly
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 **The zero-knowledge team password manager you own forever. Pay once. No per-seat subscription.**
 
 ![MIT](https://img.shields.io/badge/license-MIT-green) ![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen)
